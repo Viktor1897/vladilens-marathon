@@ -22,7 +22,7 @@ body {
   height: 100%;
   width: 35%;
   position: absolute;
-  top: 0;
+  top: -300vh;
   left: 0;
   transition: transform 0.5s ease-in-out;
 }
