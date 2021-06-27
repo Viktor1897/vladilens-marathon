@@ -13,18 +13,18 @@ body {
 }
 
 .container {
-  width: 79vh;
+  width: 80vh;
   background-color: #111;
   display: flex;
   flex-wrap: wrap;
 }
 
 .square {
-  width: 5vh;
-  height: 5vh;
-  margin: 1%;
+  width: 3vh;
+  height: 3vh;
+  margin: 0.5%;
   background-color: #1f1f1f; 
-  transition: background-color 2s ease, box-shadow 2.5s ease;
+  transition: background-color 4s ease, box-shadow 5s ease;
   box-shadow: #1f1f1f 0 0 4px 2px;
 }
 

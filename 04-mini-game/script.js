@@ -1,5 +1,5 @@
 const board = document.getElementById('board');
-const numberOfSquares = 144;
+const numberOfSquares = 441;
 const colors = ['#FF4500', '#FF69B4', '#8A2BE2', '#DAA520', '#C0C0C0', '#00FF00'];
 
 function fillBoard () {
